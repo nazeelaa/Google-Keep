@@ -1,0 +1,40 @@
+.takeNote{
+    width: 40vw;
+    height: 5vh;
+    border-radius: 8px;
+    border: 1px solid grey;
+    position: relative;
+    top:50px;
+    left: 35%;
+    display: flex;
+}
+.note{
+    width: 70%;
+    height: 5vh;
+   
+    /* position: relative;
+    right:15%; */
+    overflow: hidden;
+    
+}
+
+.takenoteiconbox{
+    width: 30%;
+    height: 6vh;
+   
+    display: flex;
+    align-items: center;
+
+
+}
+
+
+
+.takenoteaIcons{
+    width: 60px;
+    height: 6vh;
+    position: relative;
+    left: 13px;
+    display: flex;
+    align-items: center;
+}

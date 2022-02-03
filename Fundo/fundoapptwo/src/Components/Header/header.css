@@ -1,0 +1,114 @@
+.Headerpart{
+height: 8vh;
+width: 100%;
+border: 1px solid black;
+display: flex;
+}
+.headerparttwo{
+    width: 100vw;
+    height: 3.8vw;
+    /* background-color: chartreuse; */
+    z-index: 1;
+}
+.left-box{
+    width: 17%;
+    height: 3.6vw;
+    /* background-color: cornsilk; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-menu{
+    width: 45px;
+    height: 3.6vw;
+    display: flex;
+    align-items: center;
+    /* border: 1px solid blue; */
+    
+}
+.googleKeepImg{
+    width: 45px;
+    height: 3.6vw;
+    background-color: rgba(255, 208, 0, 0.897);
+    display: flex;
+    align-items: center;
+    
+
+}
+.textKeep{
+    width: 130px;
+    height: 55px;
+    font-size: x-large;
+    display: flex;
+    align-items: center;
+    font-weight:bolder;
+    display: flex;
+    align-items: center;
+    /* border: 1px solid green; */
+    
+}
+.center-search-box{
+    width: 40vw;
+    height: 60px; 
+    position: absolute;
+    top: 0%;
+    left: 20%;
+    display: flex;
+    
+    
+}
+
+.searchbox{
+    width: 40px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    /* border: 1px solid blue; */
+}
+.textbox{
+  width: 40vw;
+  height: 8vh;
+  
+    
+  position: relative;
+  top: 1%;
+  left: 0%;
+  display: flex;
+  
+}
+
+
+.google-keep-buttons{
+    width: 12vw;
+    height: 57px;
+    /* border:1px solid maroon; */
+    position: absolute;
+    left: 84%;
+    top: 0%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.refresh{
+    width: 45px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    /* border: 1px solid blue; */
+
+}
+.list-view{
+    width: 45px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    /* border: 1px solid blue; */
+}
+.setting{
+    width: 45px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    /* border: 1px solid blue; */
+
+}

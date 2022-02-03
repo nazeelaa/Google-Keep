@@ -1,0 +1,75 @@
+.maincontainer{
+    width: 30vw;
+    height: 85vh;
+    border: 1px solid gray;
+    border-radius: 1px;
+    /* display: flex; */
+    position: relative;
+    left: 30%;
+
+}
+.googletxt{
+    font-weight: 200px;
+    font-family:sans-serif;
+}
+.google{
+    display: flex;
+    padding-left: 35%;  
+}
+.signfont{
+    font-size:23px ;
+}
+.text1{
+  
+    position: relative;
+    right: 5%;
+    font-size: 20px;
+
+}
+.createacc{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ca{
+    color: lightskyblue;
+}
+.bluetext{
+    color: lightskyblue;
+    position: relative;
+    right: 35%;
+}
+
+.title1{
+    color: blue;
+    font-size: 25px;
+    font-weight: 50%;
+}
+.title2{
+    color: olivedrab;
+    font-size: 25px;
+}
+.title3{
+    color: orange;
+    font-size: 25px;
+}
+.title4{
+    color: tomato;
+    font-size: 25px;
+}
+.title5{
+    color: magenta;
+    font-size: 25px;
+}
+.title6{
+    color: yellow;
+    font-size: 25px;
+}
+
+
+.emailbox{
+    display: flex;
+    flex-direction: column;
+}
+.emailtxt{
+    color: lightskyblue;
+}

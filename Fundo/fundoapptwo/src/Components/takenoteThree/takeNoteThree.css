@@ -1,0 +1,47 @@
+.takeNoteThree{
+
+    height: 100px;
+    width:15%;
+    border: 2px black solid;
+    margin-top: 20px;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 4%;
+
+}
+.titlediv{
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+    
+}
+.descriptiondiv{
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 47%;
+   
+}
+.inputTitle{
+    border:2px solid black;
+    outline: none;
+
+}
+.inputDescription{
+
+    border:2px solid black;
+    outline: none;
+
+}
+.iconDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    
+    height: 40px;
+}
+.submenu1{
+    color: grey;
+}
